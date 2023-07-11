@@ -34,6 +34,12 @@ In addition to the requirements defined in the project specification, the system
 - The Admin can view and remove user accounts.
 - The Admin can view all completed orders, items, user accounts, and orders.
 
+- ### Extra Functionality
+
+Example to show the extra functionality with chat gpt working:
+![Get The attributes](https://i.ibb.co/NFYC8rz/Captura-de-Tela-117.png)
+![Get The Recommendation](https://i.ibb.co/RpFShBz/Captura-de-Tela-118.png)
+
 ### Navigation Diagram
 
 <img src='diagrama2.png' />
